@@ -1,0 +1,18 @@
+name: Ali
+age: 28 
+address: "dh":"h"
+active: true
+key: 
+    key: value
+    key2: 33
+    key3: 
+        key: value
+jsonObject: {key: value}
+array:
+    - item1
+    - item2
+objectArra:
+    - key: value
+      key2: user
+longtext: >
+    newlintes
